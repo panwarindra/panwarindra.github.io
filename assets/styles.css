@@ -1,0 +1,11 @@
+.bg-global{
+    color: white;
+}
+
+.font-white {
+    color: white;
+}
+
+a.font-white {
+    color: white !important; 
+}
